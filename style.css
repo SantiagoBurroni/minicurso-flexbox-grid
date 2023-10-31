@@ -1,0 +1,17 @@
+.row{
+  display: flex;
+  flex-direction: row;
+  /* flex-wrap: wrap; */
+  max-width: 900px;
+}
+
+img. {
+  width: 200px;
+}
+
+.item {
+  text-align: center;
+  width: 300px;
+  margin-left: 1em;
+  margin-right: 1em;
+}
